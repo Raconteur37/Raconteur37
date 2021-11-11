@@ -1,7 +1,7 @@
 ### Hello! I'm Cameron, and while programming is my passion, Gits are a requirement!
 I have taken 3 AP classes in computer science but I am self taught in OOP and Database Managment, as well as how to create in depth algorithms.
 I currently work full time on the minecraft server known as Renatus Network.
-I love creating bots to automate things in my life, and I have a passion coding for games!
+I love creating bots to automate things in my life, and I have a passion for coding games!
 - 🔥 The biggest project I'm working on is re designing the KitPvp gamemode for Renatus!
 - 🔤 I have started focusing more on C++ as well as C#.
 - 🎮 My favorite video games are Destiny 2 and The Walking Dead by Telltale games.
