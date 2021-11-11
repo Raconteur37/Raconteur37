@@ -7,7 +7,7 @@ I love creating bots to automate things in my life, and I have a passion coding 
 - 🎮 My favorite video games are Destiny 2 and The Walking Dead by Telltale games.
 - 👨‍🏫 I also tutor kids in python and keep all of my lessons as well as their projects here!
 - ❌ I know to never to use global variables or abuse static methods unless it's the only option, don't worry.
-I am well established in SQL for data base managment as well as Python and Java. 
+- ✔️ Lastly, I am well established in SQL for data base managment as well as Python and Java. 
 For java, I like OOP since to me, it's the most efficient. 
 Thanks for checking me out!
 
