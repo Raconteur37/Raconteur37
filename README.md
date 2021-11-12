@@ -1,4 +1,4 @@
-### Hello! I'm Cameron, and while programming is my passion, Gits are a requirement!
+### Hello! I'm Cameron, my passion is programming for games!
 I have taken 3 AP classes in computer science as well as being self taught in OOP and Database Management, as well as how to create in depth algorithms.
 I currently work full time on a Minecraft server known as Renatus Network.
 I love creating bots to automate things in my life, and I have a passion for coding games!
@@ -6,8 +6,7 @@ I love creating bots to automate things in my life, and I have a passion for cod
 - 🔤 I have started focusing more on C++ as well as C#.
 - 🎮 My favorite video games are Destiny 2, The Walking Dead by Telltale games, and Valorant.
 - 👨‍🏫 I also tutor kids in Python and keep all of my lessons as well as their projects here!
-- ❌ I know to never to use global variables or abuse static methods unless it's the only option, don't worry.
-- ✔️ Lastly, I am well established in SQL for data base managment as well as Python and Java.
+- ✔️ Lastly, I am well established in SQL for database managment as well as Python and Java.
 Thanks for checking me out!
 
 
