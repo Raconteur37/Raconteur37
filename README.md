@@ -5,7 +5,7 @@ I love creating bots to automate things in my life, and I have a passion for cod
 - 🔥 The biggest project I'm working on is re-designing the KitPvp gamemode for Renatus!
 - 🔤 I have started focusing more on C++ as well as C#.
 - 🎮 My favorite video games are Destiny 2, The Walking Dead by Telltale games, and Valorant.
-- 👨‍🏫 I also tutor kids in python and keep all of my lessons as well as their projects here!
+- 👨‍🏫 I also tutor kids in Python and keep all of my lessons as well as their projects here!
 - ❌ I know to never to use global variables or abuse static methods unless it's the only option, don't worry.
 - ✔️ Lastly, I am well established in SQL for data base managment as well as Python and Java.
 Thanks for checking me out!
