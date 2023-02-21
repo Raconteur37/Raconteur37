@@ -1,5 +1,5 @@
 ### Hello! I'm Emrie, my passion is programming for games and designing Algorithms!
-I have taken 3 AP classes in computer science as well as being self taught in OOP and Database Management, as well as how to create in depth algorithms.
+I am currently a computer science student at the University of Houston. I'm self taught in OOP and Database Management, as well as how to create in depth algorithms and statistic managers for games.
 I currently am the owner of a Minecraft server known as Renatus Network.
 I love creating bots to automate things in my life.
 - 🔥 The biggest project I'm working on is creating an integral calculator in python!
