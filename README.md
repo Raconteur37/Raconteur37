@@ -1,6 +1,4 @@
-### Hello im Emrie these are my projects. 
-I mainly use github for storage and transfer of code between my laptop and desktop
-
+### Hello im Cameron Emrie these are my projects! 
 
 <!--
 **Raconteur37/Raconteur37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
