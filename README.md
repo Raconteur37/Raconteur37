@@ -1,4 +1,4 @@
-### Hello im Cameron Emrie these are my projects! 
+### Yo, check me out
 
 <!--
 **Raconteur37/Raconteur37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
